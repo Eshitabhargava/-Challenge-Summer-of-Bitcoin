@@ -1,6 +1,6 @@
 # Challenge/Summer-of-Bitcoin
 
-#####Tasks involved, as in the Solution Code:
+##### Tasks involved, as in the Solution Code:
 
 1. Parse CSV 
 2. While Parsing, keep checking if the transaction record at hand is a Valid one. 
